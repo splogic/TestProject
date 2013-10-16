@@ -1,0 +1,7 @@
+
+public class class2 {
+
+	test row 1;
+	test row 2;
+	test row 3;
+}
